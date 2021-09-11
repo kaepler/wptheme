@@ -1,10 +1,10 @@
 <?php
 
 /**
- * Kesseo theme's functions and definitions
+ * Kaepler theme's functions and definitions
  *
- * @package KesseoTheme
- * @since KesseoTheme 1.0
+ * @package KaeplerTheme
+ * @since KaeplerTheme 1.0
  */
 
 /**
